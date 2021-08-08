@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612424819623",
+    "project_id": "gyst-74ee7",
+    "storage_bucket": "gyst-74ee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612424819623:android:afa99fbdf964917ebc0c82",
+        "android_client_info": {
+          "package_name": "net.inhostudios.projectgyst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612424819623-84bp6pb7l9cummllparr9kgjipgkp385.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWfwJtrFDTJ2BCcpmhKr4cy6RE9meysyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612424819623-84bp6pb7l9cummllparr9kgjipgkp385.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
